@@ -2,13 +2,13 @@
   "name": "camman18YT",
   "bot-account": {
     "username": "camman18YT",
-    "password": "",
+    "password": "hello2025",
     "type": "offline"
   },
   "server": {
     "ip": "smdlb.aternos.me",
     "port": 20025,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
