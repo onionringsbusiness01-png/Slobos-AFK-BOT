@@ -8,7 +8,7 @@
   "server": {
     "ip": "smdlb.aternos.me",
     "port": 20025,
-    "version": ""
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
